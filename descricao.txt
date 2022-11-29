@@ -78,3 +78,6 @@ Desenvolvimento, explicando como a equipe resolveu e desenvolveu o sistema
 Regras de uso, orientações de como usar 
 
 Referência Bibliográfica
+
+Pesquisamos uma forma de comparar strings para acharmos a pessoa correspondente
+https://wagnergaspar.com/como-comparar-duas-strings-com-a-funcao-strcmp-na-linguagem-de-programacao-c/
